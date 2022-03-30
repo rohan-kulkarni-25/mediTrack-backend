@@ -1,0 +1,17 @@
+{
+  "name": "mediTrack-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rohan-kulkarni-25/mediTrack-backend.git",
+  "author": "Rohan Kulkarni <rohank2502@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
